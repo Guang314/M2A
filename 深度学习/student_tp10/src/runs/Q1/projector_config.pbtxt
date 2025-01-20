@@ -1,0 +1,5 @@
+embeddings {
+  tensor_name: "Epoch 10:00000"
+  metadata_path: "00000/Epoch 10/metadata.tsv"
+  tensor_path: "00000/Epoch 10/tensors.tsv"
+}
