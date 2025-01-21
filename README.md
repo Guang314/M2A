@@ -16,7 +16,7 @@
     - REINFORCE 算法
     - PPO 算法
     - SAC 算法
-    - TQE 算法
+    - TQC 算法
     - VAE 变分自编码器
     - GAN 对抗生成网络
     - Normalizing flows 正则化流
