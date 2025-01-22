@@ -30,7 +30,7 @@
     - Saliency Map, Adversarial Exemple, Class Visuallization
     - Domain Adaptation 领域自适应
     - GAN 对抗生成网络（GANs, cGANs）
-    - 贝叶斯神经网络
+    - BNN 贝叶斯神经网络
   - ### CUDA 编程
   - ### 医疗领域的机器学习
   - ### 隐私与公平性算法
