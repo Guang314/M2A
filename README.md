@@ -3,8 +3,10 @@
 
 - ## 计算机课程
   - ### 深度学习
-    - RNN 循环神经网络（LSTM, GRU）
-    - 正则化技巧
+    - MLP 多层感知机
+    - 梯度下降法（SGD, Adam）
+    - CNN 卷积神经网络（AlexNet, VGG, GoogleNet, ResNet, U-nets）
+    - RNN 循环神经网络（LSTM, GRU, Skip-Gram）
     - 注意力机制
     - GNN 图神经网络
   - ### 强化学习与前沿深度学习
