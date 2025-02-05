@@ -7,8 +7,11 @@
     - 梯度下降法（SGD, Adam）
     - CNN 卷积神经网络（AlexNet, VGG, GoogleNet, ResNet, U-nets）
     - RNN 循环神经网络（LSTM, GRU, Skip-Gram）
-    - 注意力机制 (修改...)
+    - Transformer 神经网络（Attention机制）
     - GNN 图神经网络
+    - Kernel 核方法
+    - Gaussian 过程
+    - Neural 过程
   - ### 强化学习与前沿深度学习
     - 值迭代与策略迭代
     - TD 学习，Q 学习，SARSA
